@@ -1,7 +1,7 @@
 ReactStarter
 ====
 
-Trying to build the first React practice using Firebase and Gulp.
+Building the first react website with React, Firebase and Gulp.
 
 ---
 
